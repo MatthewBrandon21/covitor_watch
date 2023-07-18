@@ -6,6 +6,8 @@
 
 Smartwatch system, made for COVID-19 symptoms monitoring where you can monitor your current health condition such as temperature, oxygen saturation, and heart rate. So when there are any symptoms of COVID-19 you can take the appropriate action.
 
+Demo : https://www.youtube.com/watch?v=ENuL-YPy2bc&ab_channel=MatthewBrandonDani
+
 Stay healthy and keep wearing your mask!! 😷
 
 <p align="left">
